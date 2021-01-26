@@ -1,0 +1,39 @@
+.register{
+    background: rgb(41,43,44);
+    background: linear-gradient(90deg, rgba(41,43,44,1) 0%, rgba(91,192,222,1) 35%, rgba(247,247,247,1) 100%);
+  }
+
+footer a{
+    color: white;
+}
+footer a:hover{
+    color: #5bc0de;
+}
+footer{
+    margin-top: 3%;
+}
+
+header{
+    height: 90vh;
+    width: 100vw;
+    background-image: url(./images/caroussel3.png);
+    background-position: 0% 9%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-size: 5vw !important;
+}
+h5{
+    color: #5bc0de;
+}
+
+.parallax{
+    height: 50vh;
+    background-image: url(./images/caroussel5.jpg);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
